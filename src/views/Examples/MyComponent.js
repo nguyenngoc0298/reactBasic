@@ -4,7 +4,7 @@ class MyComponent extends React.Component {
 
     render(){
         return(
-            <div>Hello my compnent NgocNM</div>
+            <div>Rental Bike Application</div>
         )
     }
 
